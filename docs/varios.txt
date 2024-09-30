@@ -1,0 +1,2 @@
+Eu estou sendo lido com a nova API de IO de Java
+Ela se chama NIO, e é muito simples de usar
